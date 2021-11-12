@@ -1,0 +1,8 @@
+          Details of Person Who have Assesed for Covid-19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+S.No                    Name           Number            Address       Age             Result      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1                   Rishi Nigam     9644910194              Indore      18         LOW RISK OF INFECTION
+2                  Rashmi Kolhe     7644535354              Indore      19        HIGH RISK OF INFECTION
+3               Priyanka Sharma     7634258964              Indore      19        HIGH RISK OF INFECTION
+4                   Rishi NIgam     5345262622              Indore      18        HIGH RISK OF INFECTION
