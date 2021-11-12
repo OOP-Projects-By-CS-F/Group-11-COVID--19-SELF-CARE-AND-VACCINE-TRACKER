@@ -1,0 +1,8 @@
+                    Details of Vaccinated Persons
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+S.No                Name              Number               Address      Age       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1                   Rishi Nigam     9644910194              Indore      18
+2                  Rashmi Kolhe     6261234132              Bhopal      19
+3               Priyanka sharma      785641455              Indore      19
+4               Priyanka Sharma     7634252233              Indore      19
